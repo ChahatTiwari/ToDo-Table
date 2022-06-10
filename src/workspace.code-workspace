@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\todo"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\xautomation"
+		},
+		{
+			"path": "..\\..\\..\\EC-council"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "xautomation"
+	}
+}
